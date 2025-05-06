@@ -13,5 +13,5 @@ This file lists all the amazing people who have contributed to this workshop rep
 
 
 
-Spandan Dallakoti
+Spandan Dallakoti 2nd sem
 <!-- New contributors add your entry above this line -->
